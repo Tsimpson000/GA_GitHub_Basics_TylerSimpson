@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Professor!");
+            Console.WriteLine("Tyler Simpson. I want to learn to program pinball machines and phone apps.");
         }
     }
 }
